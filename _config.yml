@@ -1,0 +1,14 @@
+layout_spectrum: 0.1766917
+color:
+  saturation: 0.9245413
+  brandStrength: 0.8828754
+  lightness: 0.5535977
+  rhythmicContrast: 0.2926065
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.1359649
+name: Share Learning
